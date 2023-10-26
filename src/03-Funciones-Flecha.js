@@ -37,3 +37,12 @@ const sayHello3 = (name = 'Pepe', age = 10) =>  `Hola mundo function arrow! soy 
 
 const result3 = sayHello3('Alfonso', 30);
 console.log(result3)
+
+/**
+ * Es igual que el ejemplo anterior pero en este caso para hacer operación sumar
+ * @param {*} a 
+ * @param {*} b 
+ * @returns 
+ */
+const sumar = (a = 0, b = 0) => a+b;
+console.log('El resultado de la sumar es: ' + sumar(5,3));
