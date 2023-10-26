@@ -10,8 +10,9 @@ Currently, two official plugins are available:
 - [EN] In this repository we are going to do a thorough review to review JavaScript functions and methods
 - [ESP] En este repositorio vamos a realizar un repaso exashutivo para repasar funciones y métodos de JavaScript
 
-<h1>Pasos para levantar el proyecto</h1>
-Ejecutar el comando [npm run dev] con este comando levantaremos el proyecto de forma local
+<h1>Primeros pasos</h1>
+<p>1. Ejecutar el comando npm install para descargar todas las dependencias del node_modules</p>
+<p>2. Ejecutar el comando [npm run dev] con este comando levantaremos el proyecto de forma local</p>
 
 <h2>Cambiar ruta script en index.html</h2>
 <p>Para ir viendo en la consola la ejecución de los diferentes scripts deberemos modificar el archivo index.html y poner la ruta correcta</p>
