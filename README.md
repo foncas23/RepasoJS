@@ -13,7 +13,7 @@ Currently, two official plugins are available:
 <h1>Pasos para levantar el proyecto</h1>
 Ejecutar el comando [npm run dev] con este comando levantaremos el proyecto de forma local
 
-<h2>Cambiar fichero en index.html</h2>
+<h2>Cambiar script en index.html</h2>
 <p>Para ir viendo en la consola la ejecución de los diferentes scripts deberemos modificar el archivo index.html y poner la ruta correcta</p>
     <li>
         <script type="module" src="/src/01-Variables-consts.js"></script>
