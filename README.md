@@ -17,5 +17,7 @@ Ejecutar el comando [npm run dev] con este comando levantaremos el proyecto de f
 <p>Para ir viendo en la consola la ejecución de los diferentes scripts deberemos modificar el archivo index.html y poner la ruta correcta</p>
     <li>
         <script type="module" src="/src/01-Variables-consts.js"></script>
+    </li>
+    <li>
         <script type="module" src="/src/02-Funciones.js"></script>
     </li>
