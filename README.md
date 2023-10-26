@@ -21,3 +21,6 @@ Ejecutar el comando [npm run dev] con este comando levantaremos el proyecto de f
     <li>
         <script type="module" src="/src/02-Funciones.js"></script>
     </li>
+    <li>
+        <script type="module" src="/src/03-Funciones-Flecha.js"></script>
+    </li>
