@@ -67,3 +67,5 @@ if(invoice1.client?.adress?.street){
 }else{
   console.log('No viene el atributo cliente y addres')
 }
+
+invoice1.ad
