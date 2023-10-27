@@ -16,8 +16,11 @@ Currently, two official plugins are available:
 
 <h2>Cambiar ruta script en index.html</h2>
 <p>Para ir viendo en la consola la ejecución de los diferentes scripts deberemos modificar el archivo index.html y poner la ruta correcta</p>
+<ol>
     <li>
         <p>En esta clase hacemos una breve explicación de los tipos de variables y como trabajar con ellas en JS</p>
+    </li>
+    <li>
         <script type="module" src="/src/01-Variables-consts.js"></script>
     </li>
     <li>
@@ -36,3 +39,4 @@ Currently, two official plugins are available:
         <p>En esta clase hacemos una breve explicación sobre Listas y Objetos </p>
         <script type="module" src="/src/05-Arreglos.js"></script>
     </li>
+</ol>
