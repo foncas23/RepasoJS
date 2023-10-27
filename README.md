@@ -7,7 +7,7 @@ Actualmente, hay dos complementos oficiales disponibles:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) usa [Babel](https://babeljs.io/) para actualización rápida
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) usa [SWC](https://swc.rs/) para actualización rápida
 
-- [ESP] En este repositorio vamos a realizar un repaso de funciones y métodos de JavaScript
+- En este repositorio vamos a realizar un repaso de funciones y métodos de JavaScript
 
 <h2>Primeros pasos</h2>
 <p>1. Ir a la ubicación donde tengamos descargado el proyecto con el terminal y ejecutar el comando <b>npm install</b> para descargar todas las dependencias del node_modules</p>
@@ -47,7 +47,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs .io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- [ENG] In this repository we are going to review JavaScript functions and methods
+- In this repository we are going to review JavaScript functions and methods
 
 <h2>First steps</h2>
 <p>1. Go to the location where we have downloaded the project with the terminal and execute the command <b>npm install</b> to download all the node_modules dependencies</p>
