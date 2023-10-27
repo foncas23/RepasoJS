@@ -12,6 +12,6 @@ const invoice = {
 };
 
 //Modificamos el valor cliente del objeto de arribo
-invoice.client = 'Donald Trump'
+invoice.client = 'Donald Trump';
 console.log(invoice);
 console.log(invoice.client);
