@@ -114,3 +114,9 @@ invoice2.client.adress={
 }
 console.log(invoice2.client.adress.street)
 console.log(invoice2)
+
+if(invoice2.client?.adress?.street){
+  console.log('Prefecto, tenemos el atributo cliente y addres y street');
+}else{
+  console.log('No viene el atributo cliente y addres')
+}
