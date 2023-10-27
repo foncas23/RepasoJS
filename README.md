@@ -33,8 +33,12 @@ Actualmente, hay dos complementos oficiales disponibles:
         <p><script type="module" src="/src/04-Objetos.js"></script></p>
     </li>
     <li>
-        <p>En esta clase hacemos una breve explicación sobre Listas y Objetos </p>
+        <p>En esta clase hacemos una breve explicación sobre Listas y Objetos</p>
         <p><script type="module" src="/src/05-Arreglos.js"></script></p>
+    </li>
+    <li>
+        <p>En esta clase hacemos una breve explicación sobre el operador Optional chaining</p>
+        <p><script type="module" src="/src/06-Operador-Optional-chaining.js"></script></p>
     </li>
 </ul>
 
@@ -75,5 +79,9 @@ Currently, two official plugins are available:
     <li>
         <p>In this class we do a brief explanation about Lists and Objects </p>
         <p><script type="module" src="/src/05-Arreglos.js"></script></p>
+    </li>
+    <li>
+        <p>In this class we give a brief explanation about the Optional chaining operator</p>
+        <p><script type="module" src="/src/06-Operador-Optional-chaining.js"></script></p>
     </li>
 </ul>

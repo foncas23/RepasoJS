@@ -65,3 +65,14 @@ if(result2){
   console.log('No son iguales')
 }
 
+
+/**
+ * En esta parte vemos que en el caso de los objetos clonados, si modificamos el id del objeto referncia
+ * también se modifica en el objeto resultado de dicha clonación. Esto no pasa en el objeto
+ * invoice3 del cual hemos general una nueva instancia y este mantiene el mismo id del objeto
+ * original del cual se instanció
+ */
+invoice1.id = 20;
+console.log(invoice1.id);
+console.log(invoice2.id);
+console.log(invoice3.id)
