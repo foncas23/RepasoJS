@@ -68,4 +68,49 @@ if(invoice1.client?.adress?.street){
   console.log('No viene el atributo cliente y addres')
 }
 
-invoice1.ad
+let invoice2 = {
+  id:10,
+  name: 'Compras de oficina',
+  date: new Date(),
+  client: {
+    id:2,
+    name: 'Jhon',
+    lastName: 'Smith',
+    age: 35
+  },
+  items: [
+    {
+      product: 'keyboard',
+      price: 50,
+      quantity:2
+    },
+    {
+      product: 'mouse',
+      price: 200,
+      quantity: 1
+    },
+    {
+      product: 'paper',
+      price: 65,
+      quantity: 10
+    }
+  ],
+  total: function(){
+    let total = 0;
+    this.items.forEach(item => {
+      total = total + (item.price*item.quantity);
+    })
+    return total;
+  },
+  greeting: function(){
+    return `Hola ${this.client.name}`
+  }
+};
+
+//Añadir lista nueva al objeto después de haber sido creado
+invoice2.client.adress={
+  street: 'Calle piruleta',
+  num: 23
+}
+console.log(invoice2.client.adress.street)
+console.log(invoice2)
