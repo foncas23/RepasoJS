@@ -23,18 +23,18 @@ Currently, two official plugins are available:
     </li>
     <li>
         <p>En esta clase hacemos una breve explicación sobre las funciones en JS</p>
-        <script type="module" src="/src/02-Funciones.js"></script>
+        <p><script type="module" src="/src/02-Funciones.js"></script></p>
     </li>
     <li>
         <p>En esta clase hacemos una breve explicación sobre las funciones con felcha en JS</p>
-        <script type="module" src="/src/03-Funciones-Flecha.js"></script>
+        <p><script type="module" src="/src/03-Funciones-Flecha.js"></script></p>
     </li>
     <li>
         <p>En esta clase hacemos una breve explicación sobre Objetos en JS, como crearlos y trabajar con ellos</p>
-        <script type="module" src="/src/04-Objetos.js"></script>
+        <p><script type="module" src="/src/04-Objetos.js"></script></p>
     </li>
     <li>
         <p>En esta clase hacemos una breve explicación sobre Listas y Objetos </p>
-        <script type="module" src="/src/05-Arreglos.js"></script>
+        <p><script type="module" src="/src/05-Arreglos.js"></script></p>
     </li>
 </ol>
