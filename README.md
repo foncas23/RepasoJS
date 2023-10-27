@@ -19,9 +19,7 @@ Currently, two official plugins are available:
 <ol>
     <li>
         <p>En esta clase hacemos una breve explicación de los tipos de variables y como trabajar con ellas en JS</p>
-    </li>
-    <li>
-        <script type="module" src="/src/01-Variables-consts.js"></script>
+        <p><script type="module" src="/src/01-Variables-consts.js"></script></p>
     </li>
     <li>
         <p>En esta clase hacemos una breve explicación sobre las funciones en JS</p>
