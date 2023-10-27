@@ -1,13 +1,12 @@
-# React + Vite
+# [ESP] React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta plantilla proporciona una configuración mínima para que React funcione en Vite con HMR y algunas reglas de ESLint.
 
-Currently, two official plugins are available:
+Actualmente, hay dos complementos oficiales disponibles:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) usa [Babel](https://babeljs.io/) para actualización rápida
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) usa [SWC](https://swc.rs/) para actualización rápida
 
-- [EN] In this repository we are going to carry out a review of JavaScript functions and methods
 - [ESP] En este repositorio vamos a realizar un repaso de funciones y métodos de JavaScript
 
 <h2>Primeros pasos</h2>
@@ -35,6 +34,46 @@ Currently, two official plugins are available:
     </li>
     <li>
         <p>En esta clase hacemos una breve explicación sobre Listas y Objetos </p>
+        <p><script type="module" src="/src/05-Arreglos.js"></script></p>
+    </li>
+</ul>
+
+# [EN] React+Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs .io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+- [ENG] In this repository we are going to review JavaScript functions and methods
+
+<h2>First steps</h2>
+<p>1. Go to the location where we have downloaded the project with the terminal and execute the command <b>npm install</b> to download all the node_modules dependencies</p>
+<p>2. Run the command [npm run dev] with this command we will build the project locally</p>
+
+<h2>Change script path in index.html</h2>
+<p>To see the execution of the different scripts in the console we must modify the index.html file and put the correct path</p>
+<ul>
+    <li>
+        <p>In this class we give a brief explanation of the types of variables and how to work with them in JS</p>
+        <p><script type="module" src="/src/01-Variables-consts.js"></script></p>
+    </li>
+    <li>
+        <p>In this class we do a brief explanation about the functions in JS</p>
+        <p><script type="module" src="/src/02-Functions.js"></script></p>
+    </li>
+    <li>
+        <p>In this class we do a brief explanation about arrow functions in JS</p>
+        <p><script type="module" src="/src/03-Functions-Arrow.js"></script></p>
+    </li>
+    <li>
+        <p>In this class we give a brief explanation about Objects in JS, how to create them and work with them</p>
+        <p><script type="module" src="/src/04-Objects.js"></script></p>
+    </li>
+    <li>
+        <p>In this class we do a brief explanation about Lists and Objects </p>
         <p><script type="module" src="/src/05-Arreglos.js"></script></p>
     </li>
 </ul>
