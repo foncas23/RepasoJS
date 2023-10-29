@@ -13,3 +13,26 @@ notesList.forEach(function(arrayValue) {
   console.log(`La asignatura se encuentra: ${state} ${arrayValue}`);
 });
 
+
+/**
+ * En esta parte de código tenemos 3 variables con diferentes valores, y queremos saber cual 
+ * es la que tiene más valor.
+ */
+let max = 0;
+
+const a = 5;
+const b = 8;
+const c = 12;
+
+/**
+ * Si a es mayor que b asignamos el valor de a a la variable MAX, y si fuera b mayor le asignaria ese valor a MAX
+ */
+max = a > b ? a : b;
+
+/**
+ * Como ya tenemos el valor MAYOR almacenado en MAX entre a y b, Ahora deberemos comprobar si ese valor es mayor o menos al
+ * valor asignado a la variable c. Y en función esa comparación la variable MAX mantendrá el valor de 
+ * la primera comparación o se le asignará el valor de C
+ */
+max = max > c ? max : c;
+console.log(`El simbolo mayor es: ${max}`)
