@@ -40,6 +40,10 @@ Actualmente, hay dos complementos oficiales disponibles:
         <p>En esta clase hacemos una breve explicación sobre el operador Optional chaining</p>
         <p><script type="module" src="/src/06-Operador-Optional-chaining.js"></script></p>
     </li>
+     <li>
+        <p>Operador ternario, nos permite evaluar una condición y si se cumple devolver valor u otro</p>
+        <p><script type="module" src="/src/07-Operador-Ternario.js"></script></p>
+    </li>
 </ul>
 
 # [EN] React+Vite
