@@ -88,4 +88,8 @@ Currently, two official plugins are available:
         <p>In this class we give a brief explanation about the Optional chaining operator</p>
         <p><script type="module" src="/src/06-Operador-Optional-chaining.js"></script></p>
     </li>
+     <li>
+        <p>Ternary operator, allows us to evaluate a condition and if it is met, return value or another</p>
+        <p><script type="module" src="/src/07-Operador-Ternario.js"></script></p>
+    </li>
 </ul>
